@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\ConsoleCommands\\TestingCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\TestingCSharp\\TestingCSharp.csproj",
       "projectName": "TestingCSharp",
-      "projectPath": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\ConsoleCommands\\TestingCSharp.csproj",
+      "projectPath": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\TestingCSharp\\TestingCSharp.csproj",
       "packagesPath": "C:\\Users\\denic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\ConsoleCommands\\obj\\",
+      "outputPath": "C:\\Users\\denic\\OneDrive\\Desktop\\C# and C++ DEV FOLDER\\CSharp-Development\\TestingCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
