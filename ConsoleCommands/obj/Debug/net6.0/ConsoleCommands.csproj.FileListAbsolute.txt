@@ -1,0 +1,14 @@
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\bin\Debug\net6.0\ConsoleCommands.exe
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\bin\Debug\net6.0\ConsoleCommands.deps.json
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\bin\Debug\net6.0\ConsoleCommands.runtimeconfig.json
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\bin\Debug\net6.0\ConsoleCommands.dll
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\bin\Debug\net6.0\ConsoleCommands.pdb
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.AssemblyInfoInputs.cache
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.AssemblyInfo.cs
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.csproj.CoreCompileInputs.cache
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.dll
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\refint\ConsoleCommands.dll
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.pdb
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ConsoleCommands.genruntimeconfig.cache
+C:\Users\denic\OneDrive\Desktop\C# and C++ DEV FOLDER\CSharp-Development\ConsoleCommands\obj\Debug\net6.0\ref\ConsoleCommands.dll
