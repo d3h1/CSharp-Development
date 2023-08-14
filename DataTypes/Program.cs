@@ -20,6 +20,8 @@ namespace Variables
             // {0} is a placeholder for these numbers 
             Console.WriteLine("DEC : PI + bigNum = {0}", decPiVal + decBigValue);
 
+            Console.WriteLine("Biggest Decimal: {0}", Decimal.MaxValue);
+            Console.WriteLine("Smallest Decimal: {0}", Decimal.MinValue);
         }
     }
 }
