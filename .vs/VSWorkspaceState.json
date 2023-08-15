@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataTypes"
   ],
-  "SelectedNode": "\\DataTypes.sln",
+  "SelectedNode": "\\DataTypes\\DataTypes.csproj",
   "PreviewInSolutionExplorer": false
 }

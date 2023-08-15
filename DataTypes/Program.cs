@@ -35,6 +35,10 @@ namespace Variables
 
             Console.WriteLine("DBL : PI + bigVal = {0}", dblPiVal + dblBigValue);
 
+            // Floats
+            Console.WriteLine("Biggest Float: {0}", float.MaxValue);
+            Console.WriteLine("Smallest Float: {0}", float.MinValue);
+
         }
     }
 }
