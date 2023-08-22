@@ -1,0 +1,14 @@
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\bin\Debug\net6.0\Console Commands.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\bin\Debug\net6.0\Console Commands.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\bin\Debug\net6.0\Console Commands.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\bin\Debug\net6.0\Console Commands.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\bin\Debug\net6.0\Console Commands.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\refint\Console Commands.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\Console Commands.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Console Commands\obj\Debug\net6.0\ref\Console Commands.dll

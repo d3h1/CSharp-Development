@@ -1,1 +1,4 @@
 Testing the C# development folder with Github and Visual Studio
+
+
+Structure is being made and it is working curently with console applications... more to come
