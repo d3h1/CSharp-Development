@@ -34,13 +34,45 @@ namespace Strings
             // String replace
             Console.WriteLine("Replace String: {0}",
                 randString.Replace("string", "sentence"));
-            // String comapre
+            // String compare
             Console.WriteLine("Compare String A to B: {0}",
                 String.Compare("A", "B",
                 StringComparison.OrdinalIgnoreCase)); // This will ignore uppercase or lower case
             // HOW IT WORKS
             // < 0 : str1 precededs str2
-            // = 0
+            // = 0 : Zero
+            // > 0 : str2 precedes str1
+
+            // String other compare
+            Console.WriteLine("A = a: {0}",
+                String.Equals("A", "a", StringComparison.OrdinalIgnoreCase));
+
+            // String padding left
+            Console.WriteLine("Pad Left : {0}",
+                randString.PadLeft(20, '.'));
+            // String padding right
+            Console.WriteLine("Pad Right : {0}",
+                randString.PadRight(20, '.'));
+
+            // String whitespace trim
+            Console.WriteLine("Trim : {0}",
+                randString.Trim());
+
+            // String uppercase
+            Console.WriteLine("Uppercase : {0}",
+                randString.ToUpper());
+            // String lowercase
+            Console.WriteLine("Lowercase : {0}",
+                randString.ToLower());
+            Console.WriteLine("\n-----------STRING FORMAT NEW--------");
+            string newString = String.Format("{0} saw a {1} {2} in the {3}",
+                "Paul", "rabbit", "eating", "field");
+            Console.Write(newString + "\n");
+            // \' \" \\ \t \a
+
+
+
+
         }
     }
 }
