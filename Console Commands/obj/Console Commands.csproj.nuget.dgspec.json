@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Console Commands\\Console Commands.csproj": {}
+    "C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development\\Console Commands\\Console Commands.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Console Commands\\Console Commands.csproj": {
+    "C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development\\Console Commands\\Console Commands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Console Commands\\Console Commands.csproj",
+        "projectUniqueName": "C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development\\Console Commands\\Console Commands.csproj",
         "projectName": "Console Commands",
-        "projectPath": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Console Commands\\Console Commands.csproj",
-        "packagesPath": "C:\\Users\\Deni Cabaravdic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Console Commands\\obj\\",
+        "projectPath": "C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development\\Console Commands\\Console Commands.csproj",
+        "packagesPath": "C:\\Users\\cabad020\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development\\Console Commands\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Deni Cabaravdic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\cabad020\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
