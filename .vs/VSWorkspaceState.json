@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Casting",
+    "\\Console Commands",
+    "\\Data Types"
   ],
-  "SelectedNode": "\\C:\\Users\\cabad020\\source\\repos\\d3h1\\CSharp-Development",
+  "SelectedNode": "\\Casting\\Casting.csproj",
   "PreviewInSolutionExplorer": false
 }
