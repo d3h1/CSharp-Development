@@ -11,8 +11,8 @@ namespace TestingCSharpV1
 
 
             // Trying out console commands
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
-            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.BackgroundColor = ConsoleColor.DarkGray;
             Console.Clear();
             Console.WriteLine("Hello There!");
 
