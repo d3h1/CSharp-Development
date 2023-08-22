@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
-    "\\DataTypes"
+    "\\TestingC#V1"
   ],
-  "SelectedNode": "\\DataTypes\\DataTypes.csproj",
+  "SelectedNode": "\\TestingC#V1\\ConsoleCommands.cs",
+=======
+    ""
+  ],
+  "SelectedNode": "\\DataTypes.sln",
+>>>>>>> parent of 602920d (doing some more data types)
   "PreviewInSolutionExplorer": false
 }
