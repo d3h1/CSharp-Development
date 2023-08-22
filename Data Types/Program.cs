@@ -43,6 +43,15 @@ namespace Variables
             double fltBigValue = 3.000002F;
 
             Console.WriteLine("FLT : PI + bigVal = {0}", fltPiVal + fltBigValue);
+
+            // OTHER DATA TYPES
+            // byte : 8-bit unsigned int 0 to 255
+            // char : 16-bit unicode character
+            // sbyte : 8-bit signed int 128 to 127
+            // short : 16-bit signed int -32,768 to 32,767
+            // uint : 32-bit unsigned int 0 to 4,294,967,295
+            // ulong : 64-bit unsigned int 0 to 18,446,744,073,709,551,615
+            // ushort : 16-bit unsigned int 0 to 65,535
         }
     }
 }
