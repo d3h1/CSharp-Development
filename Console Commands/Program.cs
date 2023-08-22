@@ -3,7 +3,7 @@ using System; // Import a namespace named system
 
 namespace TestingCSharpV1
 {
-    public class ConsoleCommands
+    public class Program
     {
         // Can run without creating an object previously
         static void Main(string[] args)
