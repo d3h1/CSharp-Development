@@ -1,0 +1,14 @@
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\cabad020\source\repos\d3h1\CSharp-Development\Arrays\obj\Debug\net6.0\ref\Arrays.dll
