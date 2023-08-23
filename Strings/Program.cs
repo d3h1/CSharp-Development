@@ -11,7 +11,7 @@ namespace Strings
             Console.WriteLine("Currency : {0:c}", 23.455); // Currency
             Console.WriteLine("Pad with zeroes : {0:d4}", 23); // Pad with 0's
             Console.WriteLine("3 Decimals : {0:f3}", 23.45545643564); // Only three decimals
-            Console.WriteLine("Commas : {0:n4}\n\n", 2300); // Auto commas
+            Console.WriteLine("Commas : {0:n4}\n", 2300); // Auto commas
 
             // STRINGS
             Console.WriteLine("-----------STRING FORMATTING--------");
@@ -69,6 +69,7 @@ namespace Strings
                 "Paul", "rabbit", "eating", "field");
             Console.Write(newString + "\n");
             // \' \" \\ \t \a
+            Console.WriteLine(@"Exactly What I Typed\n"); // This didnt allow the \n to come through
 
 
 
