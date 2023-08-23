@@ -5,16 +5,18 @@ namespace Arrays
     public class Program
     {
         // FUNCTIONS
-        static void PrintArray(int[] intArray, string message)
+        static void PrintArrays(int[] intArray, string mess)
         {
-
+            foreach (int k in intArray)
+            {
+                Console.WriteLine("{0} : {1}", mess, k);
+            }
         }
 
-
-        // END OF FUNCTIONS
-
+        // FUNCTION END
         static void Main(string[] args)
         {
+            Console.WriteLine("---------REGULAR ARRAYs----------");
             // INT ARRAY
             int[] favNums = new int[3];
             //Add to arr
@@ -40,10 +42,11 @@ namespace Arrays
             }
 
             // Multi Dimensional Array
-            Console.WriteLine("---------MULTI DIMENSIONAL ARRAY----------");
-                string[,] custName = new string[2, 2] { { "Bob", "Smith" }, { "Sally", "Smith" } }; // Created rows by 2x2
+            Console.WriteLine("---------MULTI DIMENSIONAL ARRAYs----------");
+            string[,] custName = new string[2, 2] { { "Bob", "Smith" }, { "Sally", "Smith" } }; // Created rows by 2x2
             Console.WriteLine("Multi Dimensional Value : {0}", custName.GetValue(1, 0));
 
+            // For loop in a mutlie dimensional array can be a nested for loop
             for (int j = 0; j < custName.GetLength(0); j++)
             {
                 for (int k = 0; k < custName.GetLength(0); k++)
@@ -54,7 +57,7 @@ namespace Arrays
             }
 
             int[] randNums = { 1, 4, 7, 6 };
-
+            PrintArrays(randNums, "ForEach");
         }
     }
 }
