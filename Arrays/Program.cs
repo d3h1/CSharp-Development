@@ -19,7 +19,7 @@ namespace Arrays
             Console.WriteLine("---------REGULAR ARRAYs----------");
             // INT ARRAY
             int[] favNums = new int[3];
-            //Add to arr
+            //ADD TO ARRAY
             favNums[0] = 23;
             Console.WriteLine("favNum 0 : {0}", favNums[0]);
 
@@ -41,7 +41,7 @@ namespace Arrays
                     j, rndArr[j]);
             }
 
-            // Multi Dimensional Array
+            // MULTI DIMENSIONAL ARRAY
             Console.WriteLine("---------MULTI DIMENSIONAL ARRAYs----------");
             string[,] custName = new string[2, 2] { { "Bob", "Smith" }, { "Sally", "Smith" } }; // Created rows by 2x2
             Console.WriteLine("Multi Dimensional Value : {0}", custName.GetValue(1, 0));
