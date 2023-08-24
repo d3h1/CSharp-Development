@@ -78,9 +78,16 @@ namespace Arrays
             int startInd = 0;
             int length = 2;
 
-            Array.copy
-            
+            Array.Copy(srcArray, startInd, dstArray, 0, length);
+            PrintArrays(dstArray, "Copy");
 
+            // ARRAY CREATION
+            Array anotherArray = Array.CreateInstance(typeof(int), 10);
+            srcArray.CopyTo(anotherArray, 5);
+            foreach(int m in anotherArray)
+            {
+                Console.WriteLine("Copy to: {0} ", m);
+            }
         }
     }
 }
