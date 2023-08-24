@@ -89,9 +89,9 @@ namespace Arrays
                 Console.WriteLine("Copy to: {0} ", m);
             }
 
-            // ARRAY FIND
-            int[] numArray = { 1, 11, 22 };
-            Console.WriteLine("> 10 : {0}", Array.Find(numArray, GT10));
+            //// ARRAY FIND
+            //int[] numArray = { 1, 11, 22 };
+            //Console.WriteLine("> 10 : {0}", Array.Find(numArray, GT10));
         }
     }
 }
