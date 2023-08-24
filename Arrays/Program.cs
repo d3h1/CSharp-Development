@@ -58,6 +58,29 @@ namespace Arrays
 
             int[] randNums = { 1, 4, 7, 6 };
             PrintArrays(randNums, "ForEach");
+
+            Console.WriteLine("\n-------------------------------------------\n");
+
+            // ARRAY SORTING
+            int[] numRand = { 1, 2, 34, 5, 8, 4, 3 };
+            Array.Sort(numRand);
+
+            // ARRAY REVERSE
+            Array.Reverse(numRand);
+            Console.WriteLine("1 at index: {0}", Array.IndexOf(numRand, 1));
+
+            // ARRAY SET VALUE
+            numRand.SetValue(0, 1);
+
+            // ARRAY COPY TO OTHER
+            int[] srcArray = { 1, 2, 3 };
+            int[] dstArray = new int[2];
+            int startInd = 0;
+            int length = 2;
+
+            Array.copy
+            
+
         }
     }
 }
