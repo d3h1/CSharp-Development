@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exception Handling"
+    "\\Casting",
+    "\\Console Commands",
+    "\\Exception Handling",
+    "\\String Builders"
   ],
-  "SelectedNode": "\\Exception Handling\\Exception Handling.csproj",
+  "SelectedNode": "\\String Builders\\String Builders.csproj",
   "PreviewInSolutionExplorer": false
 }
