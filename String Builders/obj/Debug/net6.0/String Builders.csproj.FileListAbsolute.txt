@@ -1,0 +1,14 @@
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\bin\Debug\net6.0\String Builders.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\bin\Debug\net6.0\String Builders.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\bin\Debug\net6.0\String Builders.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\bin\Debug\net6.0\String Builders.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\bin\Debug\net6.0\String Builders.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\refint\String Builders.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\String Builders.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\String Builders\obj\Debug\net6.0\ref\String Builders.dll
