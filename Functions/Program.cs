@@ -23,11 +23,21 @@ namespace Functions
             Console.WriteLine("Hello {0}", name);
         }
 
+        // PASSED TWO VALUES AND SUM THEM
+        static double GetSum(double x = 1, double y = 1)
+        {
+            return x + y;
+        }
+
 
         // -------- END OF FUNCTIONS -----------
         static void Main(string[] args)
         {
-            SayHello();
+            //SayHello();
+            double x = 5;
+            double y = 4;
+
+            Console.WriteLine("Sum of {0} and {1} is {2}", x, y, GetSum(x, y));
         }
     }
 }
