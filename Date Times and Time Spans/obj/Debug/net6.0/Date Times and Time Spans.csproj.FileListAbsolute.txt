@@ -1,0 +1,14 @@
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\bin\Debug\net6.0\Date Times and Time Spans.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\bin\Debug\net6.0\Date Times and Time Spans.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\bin\Debug\net6.0\Date Times and Time Spans.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\bin\Debug\net6.0\Date Times and Time Spans.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\bin\Debug\net6.0\Date Times and Time Spans.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\refint\Date Times and Time Spans.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\Date Times and Time Spans.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Date Times and Time Spans\obj\Debug\net6.0\ref\Date Times and Time Spans.dll

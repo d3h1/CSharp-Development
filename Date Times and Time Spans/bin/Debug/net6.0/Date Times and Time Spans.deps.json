@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Date Times and Time Spans/1.0.0": {
+        "runtime": {
+          "Date Times and Time Spans.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Date Times and Time Spans/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
