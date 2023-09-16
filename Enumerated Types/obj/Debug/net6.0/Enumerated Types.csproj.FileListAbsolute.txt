@@ -1,0 +1,14 @@
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\bin\Debug\net6.0\Enumerated Types.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\bin\Debug\net6.0\Enumerated Types.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\bin\Debug\net6.0\Enumerated Types.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\bin\Debug\net6.0\Enumerated Types.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\bin\Debug\net6.0\Enumerated Types.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\refint\Enumerated Types.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\Enumerated Types.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Enumerated Types\obj\Debug\net6.0\ref\Enumerated Types.dll
