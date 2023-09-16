@@ -36,11 +36,40 @@ namespace Functions
         }
 
         // PASS BY REFERENCE -- change value inside of function and then change outside of function as well
-        public static void Swap(ref int num3, ref int num4)
+        static void Swap(ref int num3, ref int num4)
         {
             int temp = num3;
             num3 = num4;
             num4 = temp;
+        }
+
+        // PASSING UNKNOWN AMOUNT OF PARAMS
+        static double GetSumMore(params double[] nums)
+        {
+            double sum = 0;
+            foreach (int i in nums)
+            {
+                sum += i;
+            }
+            return sum;
+        }
+
+        // PASS IN PARAMS IN ANY ORDER WHEN WE USE NAMED PARAMS
+        static void PrintInfo(string name, int zipCode)
+        {
+            Console.WriteLine("{0} lives in the zip code {1}", name, zipCode);
+        }
+
+        // METHOD OVERLOADING - Create functions with exactly the same name but they can actually be asked differnet types of PARAMS
+        static double GetSum2(double x = 1, double y = 1)
+        {
+            return x + y;
+        }
+        static double GetSum2(string x = "1", string y = "1")
+        {
+            double dblX = Convert.ToDouble(x);
+            double dblY = Convert.ToDouble(y);
+            return dblX + dblY;
         }
 
 
@@ -70,6 +99,15 @@ namespace Functions
             */
 
             /**/
+
+            //Console.WriteLine("1 + 2 + 3 + 4 + 5 = {0}", GetSumMore(1, 2, 3, 4, 5));
+
+            //PrintInfo(zipCode: 91202, name: "Deni");
+
+            //Console.WriteLine("5.0 + 4.0 = {0}", GetSum2(5.0, 4.0));
+            //Console.WriteLine("5.0 + 4.0 = {0}", GetSum2("5.0", "4.0"));
+
+
 
         }
     }
