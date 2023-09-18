@@ -26,15 +26,37 @@ namespace Classes
             numOfAnimals++;
         }
 
+        // THIS -- Refers to the objex
         // If name is provided but no sound
         public Animal(string name = "No Name")
         {
-            // THIS -- Refers to the objects name
             this.name = name;
             this.sound = "No Sound";
             numOfAnimals++;
         }
 
+        // Setting up default values in the params
+        public Animal(string name = "No name", string sound = "No sound")
+        {
+            // This will assign the default or the value passed through
+            this.name = name;
+            this.sound = sound;
+            numOfAnimals++;
+        }
+
+        // Capabilities of class can come from Methods
+        // METHODS -- Special functions inside of classes
+        public void MakeSounds()
+        {
+            Console.WriteLine("{0} says {1}", name, sound);
+        }
+
+        // Get total amount of animals created
+        // Static because numOfAnimals is static 
+        public static int  GetNumAnimals()
+        {
+            return numOfAnimals;
+        }
 
 
     }
