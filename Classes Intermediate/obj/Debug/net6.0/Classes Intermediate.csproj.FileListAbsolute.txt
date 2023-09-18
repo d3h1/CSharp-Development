@@ -1,0 +1,14 @@
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\bin\Debug\net6.0\Classes Intermediate.exe
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\bin\Debug\net6.0\Classes Intermediate.deps.json
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\bin\Debug\net6.0\Classes Intermediate.runtimeconfig.json
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\bin\Debug\net6.0\Classes Intermediate.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\bin\Debug\net6.0\Classes Intermediate.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.AssemblyInfoInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.AssemblyInfo.cs
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.csproj.CoreCompileInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\refint\Classes Intermediate.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\Classes Intermediate.genruntimeconfig.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes Intermediate\obj\Debug\net6.0\ref\Classes Intermediate.dll
