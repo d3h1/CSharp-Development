@@ -1,0 +1,14 @@
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Classes\obj\Debug\net6.0\ref\Classes.dll
