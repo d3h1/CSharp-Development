@@ -1,0 +1,14 @@
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\bin\Debug\net6.0\Abstract Classes and Methods.exe
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\bin\Debug\net6.0\Abstract Classes and Methods.deps.json
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\bin\Debug\net6.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\bin\Debug\net6.0\Abstract Classes and Methods.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\bin\Debug\net6.0\Abstract Classes and Methods.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\refint\Abstract Classes and Methods.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Abstract Classes and Methods\obj\Debug\net6.0\ref\Abstract Classes and Methods.dll
