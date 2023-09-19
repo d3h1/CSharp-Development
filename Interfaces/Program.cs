@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Interfaces;
+using System;
 
 namespace Interface
 {
@@ -6,7 +7,7 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-           
+           Vehicle buick = new Vehicle("Buick", 4, 160);
 
         }
     }
