@@ -47,13 +47,8 @@ namespace Inheritance
         // Constructor to take away all error messages in program with 'numOfAnimals' is not null here
         public Animal(string name, string sound)
         {
-            SetName(name);
+            Name = name;
             Sound = sound;
-
-            NumOfAnimals = 1;
-
-            Random rnd = new Random();
-            idNum = rnd.Next(1, 214748249);
         }
 
         // THIS IS THE BEST WAY TO SET UP SETTERS AND GETTERS 
@@ -78,15 +73,14 @@ namespace Inheritance
             get { return name; }
             set
             {
-                if (!name.Any(char.IsDigit))
+                if (value.Any(char.IsDigit))
                 {
                     name = "No Name!";
                     Console.WriteLine("Name cannot have digits!");
                 }
-                else
-                {
-                    name = value;
-                }
+                else { name = value; }
+                
+                
             }
         }
 

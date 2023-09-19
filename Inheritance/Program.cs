@@ -1,26 +1,53 @@
 ﻿using System;
 
-namespace Classes
+namespace Inheritance
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Animal cat = new Animal();
-            // Cannot set it directly as we have to use setters now
-            cat.SetName("Mike");
-            // This was the best way to set up setters and getters
-            cat.Sound = "Meow";
-            Console.WriteLine("The cat is named {0} and says {1}", cat.GetName(), cat.Sound);
-            cat.Owner = "Deni";
-            Console.WriteLine("{0}'s owner is {1}", cat.GetName(), cat.Owner);
+            Animal whiskers = new Animal()
+            {
+                Name = "Whiskers",
+                Sound = "Meow"
+            };
 
-            Console.WriteLine("{0}'s shelter ID is {1}", cat.GetName(), cat.idNum);
-            // Since we are getting a static prop, we need to call the class first
-            Console.WriteLine("# of animals : {0}", Animal.NumOfAnimals);
+            Dog grover = new Dog()
+            {
+                Name = "Grover",
+                Sound = "Woof",
+                Sound2 = "Grrrr"
+            };
 
+            grover.Sound = "Wooooof";
+
+            whiskers.MakeSound();
+            grover.MakeSound();
+            whiskers.SetAnimalIDInfo(123456, "Sally Smith");
+            grover.SetAnimalIDInfo(143621, "Owen Wilson");
+
+            whiskers.GetAnimalIDInfo();
+            Animal.AnimalHealth getHealth = new Animal.AnimalHealth();
+
+            Console.WriteLine("Is my animal healthy : {0}", getHealth.HealthyWeight(11, 46));
+
+            //Cerating more animal types
+            Animal monkey = new Animal()
+            {
+                Name = "Happy",
+                Sound = "Eeeeee"
+            };
+
+            Animal spot = new Dog()
+            {
+                Name = "Spot",
+                Sound = "Wooooffff",
+                Sound2 = "grrrrrrrrrr"
+            };
+
+            spot.MakeSound();
+            
 
         }
-
     }
 }
