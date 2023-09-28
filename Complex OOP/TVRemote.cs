@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Complex_OOP
 {
-    interface IElectronicDevice
+    class TVRemote
     {
-        void On();
-        void Off();
-        void VolUp();
-        void VolDown();
+        public static IElectronicDevice GetDevice()
+        {
+            return new Television();
+        }
     }
 }
