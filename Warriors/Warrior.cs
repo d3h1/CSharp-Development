@@ -17,5 +17,17 @@ namespace Warriors
         // Random number generations
         Random rnd = new Random();
 
+        // Create constructor for warrior
+        public Warrior(string name = "Warrior", 
+            double health = 0,
+            double attackMax = 0, 
+            double blockMax = 0) 
+        {
+            Name = name;
+            Health = health;
+            AttackMax = attackMax;
+            BlockMax = blockMax;
+        }
+
     }
 }
