@@ -1,0 +1,14 @@
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\bin\Debug\net6.0\Complex OOP.exe
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\bin\Debug\net6.0\Complex OOP.deps.json
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\bin\Debug\net6.0\Complex OOP.runtimeconfig.json
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\bin\Debug\net6.0\Complex OOP.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\bin\Debug\net6.0\Complex OOP.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.AssemblyInfoInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.AssemblyInfo.cs
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.csproj.CoreCompileInputs.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\refint\Complex OOP.dll
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.pdb
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\Complex OOP.genruntimeconfig.cache
+C:\Users\cabad020\Desktop\CSharp-Development\Complex OOP\obj\Debug\net6.0\ref\Complex OOP.dll
