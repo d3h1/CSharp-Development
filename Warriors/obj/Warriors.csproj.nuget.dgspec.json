@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cabad020\\Desktop\\CSharp-Development\\Warriors\\Warriors.csproj": {}
+    "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Warriors\\Warriors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cabad020\\Desktop\\CSharp-Development\\Warriors\\Warriors.csproj": {
+    "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Warriors\\Warriors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cabad020\\Desktop\\CSharp-Development\\Warriors\\Warriors.csproj",
+        "projectUniqueName": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Warriors\\Warriors.csproj",
         "projectName": "Warriors",
-        "projectPath": "C:\\Users\\cabad020\\Desktop\\CSharp-Development\\Warriors\\Warriors.csproj",
-        "packagesPath": "C:\\Users\\cabad020\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cabad020\\Desktop\\CSharp-Development\\Warriors\\obj\\",
+        "projectPath": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Warriors\\Warriors.csproj",
+        "packagesPath": "C:\\Users\\Deni Cabaravdic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Deni Cabaravdic\\Desktop\\C++ and C# Development\\CSharp-Development\\Warriors\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cabad020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Deni Cabaravdic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

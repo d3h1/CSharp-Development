@@ -29,5 +29,17 @@ namespace Warriors
             BlockMax = blockMax;
         }
 
+        // Giving the ability to generate a random attack ammount
+        public double Attack()
+        {
+            return rnd.Next(1, (int)AttackMax);
+        }
+        
+        // Giving the ability to generate a random block ammount along with an override
+        public virtual double Block()
+        {
+            return rnd.Next(1, (int)BlockMax);
+        }
+
     }
 }
