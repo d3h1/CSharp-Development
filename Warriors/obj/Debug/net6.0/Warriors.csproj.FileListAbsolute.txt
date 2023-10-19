@@ -1,0 +1,14 @@
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\bin\Debug\net6.0\Warriors.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\bin\Debug\net6.0\Warriors.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\bin\Debug\net6.0\Warriors.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\bin\Debug\net6.0\Warriors.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\bin\Debug\net6.0\Warriors.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\refint\Warriors.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\Warriors.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Warriors\obj\Debug\net6.0\ref\Warriors.dll
