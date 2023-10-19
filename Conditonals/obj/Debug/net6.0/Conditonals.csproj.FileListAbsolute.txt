@@ -27,3 +27,17 @@ C:/Users/cabad020/source/repos/d3h1/CSharp-Development/Conditonals/obj/Debug/net
 /Users/denicabaravdic/Desktop/CSharp-Development/Conditonals/obj/Debug/net6.0/Conditonals.pdb
 /Users/denicabaravdic/Desktop/CSharp-Development/Conditonals/obj/Debug/net6.0/Conditonals.genruntimeconfig.cache
 /Users/denicabaravdic/Desktop/CSharp-Development/Conditonals/obj/Debug/net6.0/ref/Conditonals.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\bin\Debug\net6.0\Conditonals.exe
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\bin\Debug\net6.0\Conditonals.deps.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\bin\Debug\net6.0\Conditonals.runtimeconfig.json
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\bin\Debug\net6.0\Conditonals.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\bin\Debug\net6.0\Conditonals.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.AssemblyInfoInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.AssemblyInfo.cs
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.csproj.CoreCompileInputs.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\refint\Conditonals.dll
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.pdb
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\Conditonals.genruntimeconfig.cache
+C:\Users\Deni Cabaravdic\Desktop\C++ and C# Development\CSharp-Development\Conditonals\obj\Debug\net6.0\ref\Conditonals.dll
