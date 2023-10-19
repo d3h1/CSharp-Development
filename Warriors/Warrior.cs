@@ -9,10 +9,10 @@ namespace Warriors
     class Warrior
     {
         // Warrior is going to have diff attributes
-        public string Name { get; set; }
-        public double Health { get; set; }
-        public double AttackMax { get; set; }
-        public double BlockMax { get; set; }
+        public string Name { get; set; } = "Warrior";
+        public double Health { get; set; } = 0;
+        public double AttackMax { get; set; } = 0;
+        public double BlockMax { get; set; } = 0;
 
         // Random number generations
         Random rnd = new Random();

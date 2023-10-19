@@ -40,19 +40,17 @@ namespace Warriors
         // GetAttackResult()
         public static string GetAttackResult(Warrior warriorA, Warrior warriorB)
         {
-            double warAAttakAmt = warriorA.Attack();
+            double warAAttackAmt = warriorA.Attack();
             double warBBlockAmt = warriorB.Block();
 
-            double dmg2warB = warAAttakAmt - warBBlockAmt;
+            double dmg2warB = warAAttackAmt - warBBlockAmt;
 
             if (dmg2warB > 0)
             {
                 warriorB.Health = warriorB.Health - dmg2warB;
             }
-            else
-            {
-               dmg2warB = 0;
-            }
+            else dmg2warB = 0;
+            
 
             Console.WriteLine("{0} Attacks {1} and deals {2} damage.\n", warriorA.Name, warriorB.Name, dmg2warB);
             Console.WriteLine("{0} has {1} health.\n", warriorB.Name, warriorB.Health);
